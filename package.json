@@ -1,0 +1,11 @@
+{
+  "name": "lang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "shadow-cljs": "^2.2.9",
+    "source-map": "^0.7.2",
+    "ws": "^5.0.0"
+  }
+}
