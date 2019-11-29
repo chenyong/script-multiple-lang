@@ -1,3 +1,5 @@
 
-yarn.lock
-calcit.edn
+yarn.lock -diff linguist-generated
+calcit.cirru -diff
+calcit.edn -diff linguist-generated
+
